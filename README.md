@@ -25,7 +25,7 @@ This command shows all available options and commands supported by uv.
 ```bash
 uv init uvdemo
 ```
-This creates a project directory uvdemo with the following files:
+This creates a project directory `uvdemo` with the following files:
 	•	.gitignore
 	•	.python-version
 	•	main.py
@@ -47,9 +47,9 @@ uv python install 3.11 3.12
 
 ### 🌱 5. Create Virtual Environment
 ```bash
-uv .venv
+uv venv
 ```
-This creates a virtual environment named .venv.
+This creates a virtual environment named `venv`.
 
 ### 🧬 6. Activate Virtual Environment
 ```bash
