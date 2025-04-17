@@ -90,8 +90,8 @@ Installed packages and dependency information are stored in the uv.lock file.
 
 
 ## 📚 Resources
-- uv GitHub Repository
-- uv Documentation
+- [uv GitHub Repository](https://github.com/astral-sh/uv)
+- [uv Documentation](https://docs.astral.sh/uv/)
 
 
 
