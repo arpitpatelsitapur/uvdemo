@@ -2,15 +2,13 @@
 
 > A sample project demonstrating the use of **[uv](https://github.com/astral-sh/uv)** – a new Python package manager that is **10–100x faster than pip**.
 
----
-
 ## 🚀 Getting Started with `uv`
 
 ### 🔧 1. Install `uv`
 ```bash
 pip install uv
 ```
----
+
 
 ### 📖 2. Learn More About uv
 ```bash
@@ -18,7 +16,7 @@ uv
 ```
 This command shows all available options and commands supported by uv.
 
----
+
 
 ## 🛠️ Project Initialization
 
@@ -33,7 +31,6 @@ This creates a project directory `uvdemo` with the following files:
 	•	pyproject.toml
 	•	README.md
 
-----
 
 ## 🐍 Python Version Management
 
@@ -42,7 +39,6 @@ This creates a project directory `uvdemo` with the following files:
 uv python install 3.11 3.12
 ```
 
----
 
 ## 🧪 Virtual Environment Setup
 
@@ -57,7 +53,7 @@ This creates a virtual environment named `venv`.
 source .venv/bin/activate
 ```
 
-----
+
 
 ## 📦 Dependency Management
 
@@ -73,7 +69,7 @@ uv add -r requirements.txt
 ```
 After installation, the pyproject.toml file is automatically updated to include the added dependencies under the [dependencies] section.
 
-----
+
 
 ## ▶️ Running Scripts
 
@@ -83,7 +79,7 @@ uv run script_name.py
 ```
 
 
----
+
 
 ## 📄 Lock File
 
@@ -91,12 +87,12 @@ uv run script_name.py
 
 Installed packages and dependency information are stored in the uv.lock file.
 
----
+
 
 ## 📚 Resources
 - uv GitHub Repository
 - uv Documentation
 
----
+
 
 Happy Coding! ⚡️
