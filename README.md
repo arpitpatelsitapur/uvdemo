@@ -17,6 +17,7 @@ pip install uv
 uv
 ```
 This command shows all available options and commands supported by uv.
+
 ---
 
 ## 🛠️ Project Initialization
